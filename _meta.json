@@ -1,0 +1,7 @@
+{
+  "name": "Skill Doctor",
+  "author": "OpenClaw",
+  "version": "1.0.0",
+  "description": "Scans the skills folder to detect new, unused, or missing dependencies, fix them, and test a skill in or out of sandbox.",
+  "main": "scripts/skill_doctor.py"
+}
