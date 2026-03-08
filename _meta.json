@@ -5,7 +5,13 @@
   "displayName": "Skill Doctor",
   "description": "Scans the skills folder to detect new, unused, or missing dependencies, fix them, and test a skill in or out of sandbox.",
   "author": "OpenClaw",
-  "tags": [],
+  "tags": [
+    "diagnostics",
+    "dependency-management",
+    "testing",
+    "python",
+    "skill-maintenance"
+  ],
   "platform": "openclaw",
   "main": "scripts/skill_doctor.py"
 }
