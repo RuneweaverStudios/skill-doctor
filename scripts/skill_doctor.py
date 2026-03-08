@@ -108,6 +108,8 @@ STDLIB = frozenset(
         "string", "struct", "subprocess", "sys", "tempfile", "textwrap", "threading",
         "time", "traceback", "typing", "unittest", "urllib", "uuid", "warnings",
         "weakref", "xml", "zipfile", "_thread",
+        "ctypes", "asyncio", "concurrent", "decimal", "fractions", "statistics",
+        "secrets", "contextlib", "abc", "inspect",
     ]
 )
 

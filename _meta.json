@@ -13,5 +13,10 @@
     "skill-maintenance"
   ],
   "platform": "openclaw",
-  "main": "scripts/skill_doctor.py"
+  "main": "scripts/skill_doctor.py",
+  "icon": "stethoscope",
+  "color": "#2ecc71",
+  "requires": {
+    "anyBins": ["python3"]
+  }
 }

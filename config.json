@@ -1,0 +1,6 @@
+{
+  "scan": {
+    "skip_dirs": [".git", "node_modules", "__pycache__", ".venv", "venv", "site-packages"],
+    "extra_import_mappings": {}
+  }
+}
